@@ -23,14 +23,5 @@ class Customer
   end
 end
 
-alex = Customer.new("Alex", 30)
-rachel = Customer.new("Rachel", 27)
-dan = Waiter.new("Dan", 3)
-rachel.new_meal(dan, 50, 10)
-alex.new_meal(dan, 30, 5)
 
-rachel.meals
-rachel.meals.length
-
-Meal.all.length
 end
