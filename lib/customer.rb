@@ -18,4 +18,3 @@ class Customer
  end
 
 end
-
